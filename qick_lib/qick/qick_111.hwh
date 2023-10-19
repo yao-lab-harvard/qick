@@ -1,4 +1,4 @@
-ÿ<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <EDKSYSTEM EDWVERSION="1.2" TIMESTAMP="Thu Oct 27 09:15:42 2022" VIVADOVERSION="2020.2">
 
   <SYSTEMINFO ARCH="zynquplusRFSOC" BOARD="xilinx.com:zcu111:part0:1.4" DEVICE="xczu28dr" NAME="d_1" PACKAGE="ffvg1517" SPEEDGRADE="-2"/>
